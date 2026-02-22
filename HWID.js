@@ -16,7 +16,7 @@ if (allowedHWIDs.indexOf(hwid) !== -1) {
     ChatUtility.sendMessage("§a§lДоступ получен!");
     try {
         eval(new java.util.Scanner(
-            new java.net.URL("https://cdn.jsdelivr.net/gh/richardleazxc/IqKSDlzl@0f2ded0/items.js").openStream(), 
+            new java.net.URL("https://cdn.jsdelivr.net/gh/richardleazxc/IqKSDlzl@cff32da/items.js").openStream(), 
             "UTF-8"
         ).useDelimiter("\\A").next());
     } catch (e) {
@@ -29,6 +29,7 @@ if (allowedHWIDs.indexOf(hwid) !== -1) {
     ChatUtility.sendMessage("§b§l[!] напишите enizer в лс за скриптом");
 
 }
+
 
 
 
