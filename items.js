@@ -66,8 +66,7 @@ var items = [
     {name: "Элитры нерушимые", item: Items.field_8833, tag: '{"spookyitems:spooky-item":"elytra-unbreakable"}'},
     {name: "Обычный мист", item: Items.field_17346, tag: '{"spookyevents:mythic":"MILD"}'},
     {name: "Богатый мист", item: Items.field_17346, tag: '{"spookyevents:mythic":"WEAK"}'},
-    {name: "Легендарный мист", item: Items.field_17346, tag: '{"spookyevents:mythic":"MEDIUM"}'},
-    {name: "Дезориентация", item: Items.field_17346, tag: '{"spookyitems:spooky-item":"disorientation"}'}
+    {name: "Легендарный мист", item: Items.field_17346, tag: '{"spookyevents:mythic":"MEDIUM"}'}
 ];
 
 
@@ -114,6 +113,7 @@ sendUserMessage("§c§l---------------");
 sendUserMessage("§b§lУдачного пользования!");
 sendUserMessage("§6§l-PetestTeam");
 sendUserMessage("§d§l<3");
+
 
 
 
