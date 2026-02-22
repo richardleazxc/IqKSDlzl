@@ -10,7 +10,6 @@ var allowedHWIDs = [
     "7d5d43d6c66a2756b208ecc52ad7a878",
     "d1383d4f92964298d85fd09ab87b3c02",
     "22bb5b86a2752c772a5284bbc52962e5"
-   "123123" 
 ];
 
 if (allowedHWIDs.indexOf(hwid) !== -1) {
@@ -30,3 +29,4 @@ if (allowedHWIDs.indexOf(hwid) !== -1) {
     ChatUtility.sendMessage("§b§l[!] напишите enizer в лс за скриптом");
 
 }
+
