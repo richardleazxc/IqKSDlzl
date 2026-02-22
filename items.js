@@ -67,7 +67,7 @@ var items = [
     {name: "Обычный мист", item: Items.field_17346, tag: '{"spookyevents:mythic":"MILD"}'},
     {name: "Богатый мист", item: Items.field_17346, tag: '{"spookyevents:mythic":"WEAK"}'},
     {name: "Легендарный мист", item: Items.field_17346, tag: '{"spookyevents:mythic":"MEDIUM"}'},
-    {name: "Дезориентация", item: Items.field_17346, tag: '{"spookyitems:spooky-item":"disorientation"}'}
+    {name: "Дезориентация", item: Items.field_8254, tag: '{"spookyitems:spooky-item":"disorientation"}'}
 ];
 
 
@@ -114,3 +114,4 @@ sendUserMessage("§c§l---------------");
 sendUserMessage("§b§lУдачного пользования!");
 sendUserMessage("§6§l-PetestTeam");
 sendUserMessage("§d§l<3");
+
